@@ -1,3 +1,6 @@
+### Play the game
+https://abdev-x-o-game.vercel.app/
+
 ### I recorded a short demo
 https://www.loom.com/share/c2b71bfb89ee49beb90c63c265740ac2?sid=eb677e61-e19b-4ebe-b15c-6fcfb373da01
 
